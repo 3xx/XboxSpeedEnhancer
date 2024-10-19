@@ -1,4 +1,4 @@
-# XboxSpeedEnhancer
+# XboxSpeedEnhancer PC
 Solve the problem of slow downloading for Xbox PC
 
 
